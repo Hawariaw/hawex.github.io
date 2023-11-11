@@ -1,14 +1,12 @@
 # hawex.github.io
-#FullStack Developer(beginner)
+FullStack Developer(beginner)
 
-
-###EDUCATION
-
+EDUCATION
 Bachelors in Economics						Sep 2019 – July 2023
 Hawassa University, Addis Ababa, Ethiopia
 
-###WORK EXPERIENCE
+WORK EXPERIENCE
 none at the moments
 
-###PROJECTS
+PROJECTS
 canva website
